@@ -1,0 +1,44 @@
+{
+  "name": "hathor",
+  "version": "1.0.0",
+  "build_date": "23-03-2025",
+  "build_name": "cow",
+  "private": "true",
+  "description": "O Projeto Hathor é um plugin experimental e opcional desenvolvido em Ballerina para o Projeto Íris. Ele foi criado para permitir a implementação de qualquer funcionalidade de Ballerina, integrando-se a Íris sem a necessidade de modificar o código principal e aprender Node.js (JavaScript).",
+  "main": "main.bal",
+  "scripts": {
+    "start": "bal run"
+  },
+  "author": "KillovSky",
+  "documentation": "https://github.com/KillovSky/Hathor/wiki",
+  "homepage": "https://github.com/KillovSky/Hathor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillovSky/Hathor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KillovSky/Hathor/issues"
+  },
+  "social": {
+    "github": "https://github.com/KillovSky",
+    "npm": "https://npmjs.com/~killovsky",
+    "other": "https://linktr.ee/killovsky"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "funding": [
+    {
+      "type": "kofi",
+      "url": "http://ko-fi.com/killovsky"
+    },
+    {
+      "type": "others",
+      "url": "https://linktr.ee/killovsky"
+    }
+  ],
+  "devDependencies": {},
+  "directories": {
+    "modules": "modules",
+    "settings": "settings"
+  }
+}
